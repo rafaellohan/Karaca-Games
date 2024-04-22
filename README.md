@@ -1,6 +1,6 @@
 🎮 Karaca Games: Projeto em VB.NET para Controle de Loja de Jogos 🎮
 
-Desenvolvido durante o terceiro semestre da faculdade, como parte da disciplina de Engenharia de Software 1. O Karaca Games é um programa em VB.NET que utiliza banco de dados Access para controle de caixa, estoque e gestão de funcionários em uma loja fictícia de jogos.
+O Karaca Games é um programa em VB.NET que utiliza banco de dados Access para controle de caixa, estoque e gestão de funcionários em uma loja fictícia de jogos.
 
 
 ![image](https://github.com/rafaellohan/Karaca-Games/assets/49291642/2a165f90-c97a-41fa-9aa8-2f53cac851ea)
